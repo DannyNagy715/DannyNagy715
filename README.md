@@ -1,8 +1,8 @@
 # Daniel Nagy 😎
 
-**`Young man with big dreams (Software developer / Carp angler / Youtube begginer)`**
+**`Young adult at the start of my career (Software developer / Carp angler / Gym enthusiast)`**
 
-I currently work as a System Administrator working in cloud technologies.
+I currently work as a Java Developer at Ericsson Hungary.
 
 I am a young aspiring software engineer and wanna be content creator, currently working as a System Administrator working in cloud technologies.
 I enjoy spending time learning and creating new things, so I can accomplish my goals.
